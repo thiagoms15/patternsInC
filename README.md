@@ -1,0 +1,1 @@
+This repository contains the codes that I use when I was reading the book [Patterns in C](https://leanpub.com/patternsinc).
